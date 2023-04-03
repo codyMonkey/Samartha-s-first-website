@@ -1,0 +1,36 @@
+#siri
+{
+    font-size: 30px;
+    margin-top: 15px;
+    color:rgb(66, 255, 3);
+}
+
+.pk
+{
+    font-size: 30px;
+    margin-top: 50px;
+    color: cornflowerblue;
+    background-color: rgb(9, 244, 9);
+    border-radius: 12px;
+}
+
+body
+{
+    background-color: antiquewhite;
+}
+
+#sam
+{
+    margin-top: 50px;
+    font-size: 60px;
+    border-color: black;
+    stroke: black;
+    color: red;
+}
+
+#bye
+{
+    color: aqua;
+    font-size: 50px;
+    margin-top: 60px;
+}
